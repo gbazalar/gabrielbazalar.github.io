@@ -1,2 +1,4 @@
 name: My Site
-theme: minima
+description: Electrical Engineer Student
+theme: jekyll-theme-minimal
+
